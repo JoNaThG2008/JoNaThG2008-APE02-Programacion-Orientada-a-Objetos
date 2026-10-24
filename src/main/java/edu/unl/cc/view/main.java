@@ -1,5 +1,3 @@
-
-
 package edu.unl.cc.view;
 
 import edu.unl.cc.domain.Fraccion;
