@@ -9,7 +9,7 @@ public class main {
 
         Scanner entrada = new Scanner(System.in);
         Fraccion f1 = null;
-        int opcion;
+        int opcion = 0;
 
         do {
             System.out.println("\n===== MENU DE FRACCIONES =====");
@@ -25,7 +25,15 @@ public class main {
             System.out.println("0. Salir");
             System.out.print("Seleccione una opcion: ");
 
-            opcion = entrada.nextInt();
+            // Validacion de la opcion del menu
+            try {
+                opcion = entrada.nextInt();
+            } catch (java.util.InputMismatchException e) {
+                System.out.println("Error: debe ingresar un numero entero.");
+                entrada.nextLine();
+                opcion = -1;
+            }
+
 
             switch (opcion) {
 
@@ -171,9 +179,12 @@ public class main {
                     }
                     break;
                 }
+
                 case 9: {
                     if (f1 == null) {
-                        System.out.println("Primero debe ingresar una fraccion.");
+                        System.out.println(
+                                "Primero debe ingresar una fraccion."
+                        );
                     } else if (f1.obtenerValorDecimal() == 0) {
                         System.out.println(
                                 "Error: una fraccion con valor cero no tiene inversa."
@@ -185,6 +196,7 @@ public class main {
                     }
                     break;
                 }
+
                 case 0:
                     System.out.println("Programa finalizado.");
                     break;
