@@ -8,3 +8,7 @@ Repositorio correspondiente a la actividad práctica experimental (APE02) de la 
 ##### Clase ejecutora
 
 ▶️ [Ejecutor Main](https://github.com/JoNaThG2008/JoNaThG2008-APE02-Programacion-Orientada-a-Objetos/blob/d03ce35c60ed619a26dd945520f824a3fb08b45e/src/main/java/edu/unl/cc/view/main.java)
+
+##### Problema: Planilla de consumo eléctrico
+
+📂 [Código fuente](https://github.com/JoNaThG2008/JoNaThG2008-APE02-Programacion-Orientada-a-Objetos/blob/f27efa78108edee40e8e753f790bfec4091ecefa/src/main/java/edu/unl/cc/domain/Fraccion.java)
