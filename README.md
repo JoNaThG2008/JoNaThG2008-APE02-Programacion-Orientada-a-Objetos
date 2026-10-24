@@ -11,4 +11,4 @@ Repositorio correspondiente a la actividad práctica experimental (APE02) de la 
 
 ##### Problema: Planilla de consumo eléctrico
 
-📂 [Código fuente](https://github.com/JoNaThG2008/JoNaThG2008-APE02-Programacion-Orientada-a-Objetos/blob/f27efa78108edee40e8e753f790bfec4091ecefa/src/main/java/edu/unl/cc/domain/Fraccion.java)
+📂 [Código fuente](https://github.com/JoNaThG2008/JoNaThG2008-APE02-Programacion-Orientada-a-Objetos/blob/2e3e6747ee35c238016268d63fc3b1b9ac7c3fee/src/main/java/edu/unl/cc/domain/PlanillaElectrica.java)
