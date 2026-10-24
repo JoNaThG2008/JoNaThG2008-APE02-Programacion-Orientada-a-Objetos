@@ -29,5 +29,5 @@ Repositorio correspondiente a la actividad práctica experimental (APE02) de la 
 📂[Código fuente](src/main/java/edu/unl/cc/domain/CuentaBancaria.java)
 
 ##### Clase ejecutora
-▶️ 
+▶️[Ejecutor Main](src/main/java/edu/unl/cc/view/CuentaBancoExecutor.java) 
 
