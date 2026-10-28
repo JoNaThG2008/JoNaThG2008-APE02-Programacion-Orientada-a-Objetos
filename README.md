@@ -9,11 +9,11 @@ Repositorio correspondiente a la actividad práctica experimental (APE02) de la 
 
 ▶️ [Ejecutor Main](https://github.com/JoNaThG2008/JoNaThG2008-APE02-Programacion-Orientada-a-Objetos/blob/d03ce35c60ed619a26dd945520f824a3fb08b45e/src/main/java/edu/unl/cc/view/main.java)
 
-####### Problema: Ecuación cuadrática con menú interactivo
+#### Problema: Ecuación cuadrática con menú interactivo
 
 📁 [Código fuente](https://github.com/JoNaThG2008/JoNaThG2008-APE02-Programacion-Orientada-a-Objetos/blob/main/src/main/java/edu/unl/cc/domain/EcuacionCuadratica.java)
 
-####### Clase ejecutora
+###### Clase ejecutora
 
 ▶️ [Ejecutor Main](https://github.com/JoNaThG2008/JoNaThG2008-APE02-Programacion-Orientada-a-Objetos/blob/main/src/main/java/edu/unl/cc/view/EcuacionCuadratica.java)
 
